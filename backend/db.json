@@ -1,0 +1,3384 @@
+{
+  "users": [
+    {
+      "id": "admin-1",
+      "name": "MathMaster Admin",
+      "email": "admin@mathmaster.com",
+      "password": "Admin@123",
+      "role": "admin",
+      "createdAt": "2026-11-23T00:00:00.000Z"
+    },
+    {
+      "name": "anagha",
+      "email": "anagha@gmail.com",
+      "password": "owner123",
+      "role": "user",
+      "createdAt": "2026-11-23T16:26:08.374Z",
+      "id": "-Q0qPdeeDfk"
+    }
+  ],
+  "questions": [
+    {
+      "question": "2 + 3 = ?",
+      "options": [
+        5,
+        6,
+        4,
+        7
+      ],
+      "answer": 5,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "uZUCo91nGiw"
+    },
+    {
+      "question": "4 + 5 = ?",
+      "options": [
+        9,
+        10,
+        8,
+        11
+      ],
+      "answer": 9,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "PsL_-hA6cN4"
+    },
+    {
+      "question": "6 + 7 = ?",
+      "options": [
+        13,
+        14,
+        12,
+        15
+      ],
+      "answer": 13,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "eTh5LBNFOfg"
+    },
+    {
+      "question": "8 + 4 = ?",
+      "options": [
+        12,
+        13,
+        11,
+        14
+      ],
+      "answer": 12,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "3FCEYIvmRi4"
+    },
+    {
+      "question": "9 + 3 = ?",
+      "options": [
+        12,
+        13,
+        11,
+        14
+      ],
+      "answer": 12,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "tZ0hteB7ARM"
+    },
+    {
+      "question": "8 − 3 = ?",
+      "options": [
+        5,
+        6,
+        4,
+        7
+      ],
+      "answer": 5,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "PFm2gyxJNh4"
+    },
+    {
+      "question": "10 − 4 = ?",
+      "options": [
+        6,
+        7,
+        5,
+        8
+      ],
+      "answer": 6,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "XghhwWTgIjk"
+    },
+    {
+      "question": "12 − 5 = ?",
+      "options": [
+        7,
+        8,
+        6,
+        9
+      ],
+      "answer": 7,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "vGnrKQrrGAI"
+    },
+    {
+      "question": "15 − 6 = ?",
+      "options": [
+        9,
+        10,
+        8,
+        11
+      ],
+      "answer": 9,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "wt11UlZHCx4"
+    },
+    {
+      "question": "9 − 2 = ?",
+      "options": [
+        7,
+        8,
+        6,
+        9
+      ],
+      "answer": 7,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "WdwJH81QtAA"
+    },
+    {
+      "question": "2 × 4 = ?",
+      "options": [
+        8,
+        9,
+        7,
+        10
+      ],
+      "answer": 8,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "vN-cVoCi4aA"
+    },
+    {
+      "question": "3 × 5 = ?",
+      "options": [
+        15,
+        16,
+        14,
+        17
+      ],
+      "answer": 15,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "aozyhKFjO3g"
+    },
+    {
+      "question": "4 × 6 = ?",
+      "options": [
+        24,
+        25,
+        23,
+        26
+      ],
+      "answer": 24,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "zvYoKKeuFfQ"
+    },
+    {
+      "question": "7 × 2 = ?",
+      "options": [
+        14,
+        15,
+        13,
+        16
+      ],
+      "answer": 14,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "QWIRaI7_wU0"
+    },
+    {
+      "question": "8 × 3 = ?",
+      "options": [
+        24,
+        25,
+        23,
+        26
+      ],
+      "answer": 24,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "MyKg-BKD270"
+    },
+    {
+      "question": "8 ÷ 2 = ?",
+      "options": [
+        4,
+        5,
+        3,
+        6
+      ],
+      "answer": 4,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "KVCyHeoTbdY"
+    },
+    {
+      "question": "12 ÷ 3 = ?",
+      "options": [
+        4,
+        5,
+        3,
+        6
+      ],
+      "answer": 4,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "p5fDib7kueQ"
+    },
+    {
+      "question": "15 ÷ 5 = ?",
+      "options": [
+        3,
+        4,
+        2,
+        5
+      ],
+      "answer": 3,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "wbvpZX27Q88"
+    },
+    {
+      "question": "18 ÷ 3 = ?",
+      "options": [
+        6,
+        7,
+        5,
+        8
+      ],
+      "answer": 6,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "1-oacjEutZ0"
+    },
+    {
+      "question": "20 ÷ 4 = ?",
+      "options": [
+        5,
+        6,
+        4,
+        7
+      ],
+      "answer": 5,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "HxSiX_tELAE"
+    },
+    {
+      "question": "5 + 12 = ?",
+      "options": [
+        18,
+        17,
+        16,
+        19
+      ],
+      "answer": 17,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "CpnPwaBbR2I"
+    },
+    {
+      "question": "4 + 6 = ?",
+      "options": [
+        10,
+        11,
+        12,
+        9
+      ],
+      "answer": 10,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "p6H2zjv2aXy"
+    },
+    {
+      "question": "13 + 17 = ?",
+      "options": [
+        32,
+        29,
+        31,
+        30
+      ],
+      "answer": 30,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "M2zVZV5pF8-"
+    },
+    {
+      "question": "6 + 14 = ?",
+      "options": [
+        19,
+        21,
+        22,
+        20
+      ],
+      "answer": 20,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "0VRWn4iKdFx"
+    },
+    {
+      "question": "1 + 10 = ?",
+      "options": [
+        10,
+        13,
+        12,
+        11
+      ],
+      "answer": 11,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "8dlYChUgpHJ"
+    },
+    {
+      "question": "3 + 7 = ?",
+      "options": [
+        12,
+        11,
+        9,
+        10
+      ],
+      "answer": 10,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "Ihbn5i1fgQn"
+    },
+    {
+      "question": "13 + 16 = ?",
+      "options": [
+        30,
+        31,
+        29,
+        28
+      ],
+      "answer": 29,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "zY2XlPqUmYy"
+    },
+    {
+      "question": "7 + 20 = ?",
+      "options": [
+        26,
+        27,
+        29,
+        28
+      ],
+      "answer": 27,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "vvAEiF8KP0v"
+    },
+    {
+      "question": "5 + 4 = ?",
+      "options": [
+        10,
+        11,
+        9,
+        8
+      ],
+      "answer": 9,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "klJaV3QVSFI"
+    },
+    {
+      "question": "10 + 7 = ?",
+      "options": [
+        19,
+        18,
+        16,
+        17
+      ],
+      "answer": 17,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "rUyh-kIzx_c"
+    },
+    {
+      "question": "6 + 17 = ?",
+      "options": [
+        23,
+        22,
+        24,
+        25
+      ],
+      "answer": 23,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "vSxWAMaHAlk"
+    },
+    {
+      "question": "13 + 15 = ?",
+      "options": [
+        27,
+        30,
+        29,
+        28
+      ],
+      "answer": 28,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "CNZ_5XXMmMQ"
+    },
+    {
+      "question": "7 + 2 = ?",
+      "options": [
+        11,
+        9,
+        10,
+        8
+      ],
+      "answer": 9,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "X6iTPwJdehB"
+    },
+    {
+      "question": "17 + 5 = ?",
+      "options": [
+        22,
+        24,
+        21,
+        23
+      ],
+      "answer": 22,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "RGODb2xt1Ie"
+    },
+    {
+      "question": "4 + 3 = ?",
+      "options": [
+        9,
+        7,
+        8,
+        6
+      ],
+      "answer": 7,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "7bmo8Jz_av6"
+    },
+    {
+      "question": "65 + 55 = ?",
+      "options": [
+        122,
+        119,
+        121,
+        120
+      ],
+      "answer": 120,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "hzYwqeS56aj"
+    },
+    {
+      "question": "186 + 181 = ?",
+      "options": [
+        367,
+        366,
+        369,
+        368
+      ],
+      "answer": 367,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "FnIyczWIJjF"
+    },
+    {
+      "question": "45 + 167 = ?",
+      "options": [
+        214,
+        212,
+        211,
+        213
+      ],
+      "answer": 212,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "vFBl4YajTG2"
+    },
+    {
+      "question": "126 + 30 = ?",
+      "options": [
+        158,
+        157,
+        156,
+        155
+      ],
+      "answer": 156,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "KStBBKBJ1nQ"
+    },
+    {
+      "question": "48 + 160 = ?",
+      "options": [
+        209,
+        208,
+        207,
+        210
+      ],
+      "answer": 208,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "-RacRUCbiJn"
+    },
+    {
+      "question": "150 + 111 = ?",
+      "options": [
+        260,
+        262,
+        263,
+        261
+      ],
+      "answer": 261,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "QXH4hlT6ulC"
+    },
+    {
+      "question": "121 + 164 = ?",
+      "options": [
+        285,
+        286,
+        287,
+        284
+      ],
+      "answer": 285,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "YtD5or0mpjq"
+    },
+    {
+      "question": "44 + 80 = ?",
+      "options": [
+        124,
+        123,
+        126,
+        125
+      ],
+      "answer": 124,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "hg8DFco0QZ-"
+    },
+    {
+      "question": "27 + 244 = ?",
+      "options": [
+        270,
+        273,
+        271,
+        272
+      ],
+      "answer": 271,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "gmESkKACznp"
+    },
+    {
+      "question": "191 + 31 = ?",
+      "options": [
+        223,
+        224,
+        222,
+        221
+      ],
+      "answer": 222,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "rcFneGvFaZc"
+    },
+    {
+      "question": "177 + 30 = ?",
+      "options": [
+        209,
+        207,
+        208,
+        206
+      ],
+      "answer": 207,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "991SQGYqZtp"
+    },
+    {
+      "question": "249 + 82 = ?",
+      "options": [
+        333,
+        332,
+        330,
+        331
+      ],
+      "answer": 331,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "-CPwcjYqLSe"
+    },
+    {
+      "question": "116 + 177 = ?",
+      "options": [
+        295,
+        292,
+        294,
+        293
+      ],
+      "answer": 293,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "oOAlRzqbeHP"
+    },
+    {
+      "question": "188 + 56 = ?",
+      "options": [
+        245,
+        244,
+        243,
+        246
+      ],
+      "answer": 244,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "EkqJ5eyMQr7"
+    },
+    {
+      "question": "27 + 197 = ?",
+      "options": [
+        223,
+        224,
+        225,
+        226
+      ],
+      "answer": 224,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "K38_rm71v_K"
+    },
+    {
+      "question": "201 + 50 = ?",
+      "options": [
+        250,
+        251,
+        253,
+        252
+      ],
+      "answer": 251,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "_YhlnM5fnOr"
+    },
+    {
+      "question": "53 + 155 = ?",
+      "options": [
+        209,
+        208,
+        207,
+        210
+      ],
+      "answer": 208,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "zDejaozlRHT"
+    },
+    {
+      "question": "203 + 95 = ?",
+      "options": [
+        297,
+        298,
+        300,
+        299
+      ],
+      "answer": 298,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "SFQpoGl6XAg"
+    },
+    {
+      "question": "249 + 228 = ?",
+      "options": [
+        477,
+        476,
+        479,
+        478
+      ],
+      "answer": 477,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "aIHtotMW249"
+    },
+    {
+      "question": "201 + 192 = ?",
+      "options": [
+        394,
+        393,
+        395,
+        392
+      ],
+      "answer": 393,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "rJH67mDFMgn"
+    },
+    {
+      "question": "2451 + 1647 = ?",
+      "options": [
+        4100,
+        4097,
+        4099,
+        4098
+      ],
+      "answer": 4098,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "wy_n0t57fX2"
+    },
+    {
+      "question": "2401 + 4792 = ?",
+      "options": [
+        7193,
+        7194,
+        7192,
+        7195
+      ],
+      "answer": 7193,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "TqkwVZBndAT"
+    },
+    {
+      "question": "383 + 2505 = ?",
+      "options": [
+        2888,
+        2887,
+        2889,
+        2890
+      ],
+      "answer": 2888,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "bQQrSNViTma"
+    },
+    {
+      "question": "8949 + 1618 = ?",
+      "options": [
+        10567,
+        10569,
+        10566,
+        10568
+      ],
+      "answer": 10567,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "bv86YSnYhCA"
+    },
+    {
+      "question": "6636 + 8830 = ?",
+      "options": [
+        15466,
+        15467,
+        15465,
+        15468
+      ],
+      "answer": 15466,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "fxzkix56a7B"
+    },
+    {
+      "question": "8680 + 4325 = ?",
+      "options": [
+        13006,
+        13007,
+        13005,
+        13004
+      ],
+      "answer": 13005,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "JxMeXmT-qBc"
+    },
+    {
+      "question": "2633 + 1933 = ?",
+      "options": [
+        4567,
+        4568,
+        4566,
+        4565
+      ],
+      "answer": 4566,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "Jxmc_-BqE4p"
+    },
+    {
+      "question": "6749 + 7378 = ?",
+      "options": [
+        14129,
+        14127,
+        14128,
+        14126
+      ],
+      "answer": 14127,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "kH41aT4Y1iu"
+    },
+    {
+      "question": "5807 + 4620 = ?",
+      "options": [
+        10429,
+        10427,
+        10428,
+        10426
+      ],
+      "answer": 10427,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "PkHVxRgEWh1"
+    },
+    {
+      "question": "2026 + 9292 = ?",
+      "options": [
+        11317,
+        11320,
+        11319,
+        11318
+      ],
+      "answer": 11318,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "Ly5WLAaU86k"
+    },
+    {
+      "question": "5067 + 496 = ?",
+      "options": [
+        5564,
+        5565,
+        5562,
+        5563
+      ],
+      "answer": 5563,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "iOmhs0GZQJ5"
+    },
+    {
+      "question": "9001 + 8240 = ?",
+      "options": [
+        17240,
+        17243,
+        17241,
+        17242
+      ],
+      "answer": 17241,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "RhgCOZetE0w"
+    },
+    {
+      "question": "5398 + 8705 = ?",
+      "options": [
+        14103,
+        14104,
+        14102,
+        14105
+      ],
+      "answer": 14103,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "R3CmjsbCuJL"
+    },
+    {
+      "question": "425 + 2317 = ?",
+      "options": [
+        2743,
+        2742,
+        2744,
+        2741
+      ],
+      "answer": 2742,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "rEoG5AFQ6lz"
+    },
+    {
+      "question": "8469 + 6060 = ?",
+      "options": [
+        14531,
+        14529,
+        14530,
+        14528
+      ],
+      "answer": 14529,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "Hjte9uDQXmN"
+    },
+    {
+      "question": "992 + 2011 = ?",
+      "options": [
+        3005,
+        3003,
+        3002,
+        3004
+      ],
+      "answer": 3003,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "6we0SEkK8zw"
+    },
+    {
+      "question": "7189 + 451 = ?",
+      "options": [
+        7642,
+        7641,
+        7639,
+        7640
+      ],
+      "answer": 7640,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "F9cKTdbM5cr"
+    },
+    {
+      "question": "9639 + 5942 = ?",
+      "options": [
+        15581,
+        15583,
+        15582,
+        15580
+      ],
+      "answer": 15581,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "qMQWYuRYZPS"
+    },
+    {
+      "question": "5238 + 6899 = ?",
+      "options": [
+        12139,
+        12137,
+        12138,
+        12136
+      ],
+      "answer": 12137,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "5-jaqpMsCQ3"
+    },
+    {
+      "question": "2459 + 1396 = ?",
+      "options": [
+        3856,
+        3857,
+        3855,
+        3854
+      ],
+      "answer": 3855,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "pVQlABIT8uv"
+    },
+    {
+      "question": "11 − 8 = ?",
+      "options": [
+        3,
+        5,
+        2,
+        4
+      ],
+      "answer": 3,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "B4sJaY2Vv7T"
+    },
+    {
+      "question": "30 − 19 = ?",
+      "options": [
+        11,
+        13,
+        10,
+        12
+      ],
+      "answer": 11,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "Pev49HQ4DK2"
+    },
+    {
+      "question": "19 − 1 = ?",
+      "options": [
+        18,
+        19,
+        20,
+        17
+      ],
+      "answer": 18,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "od4-My4J2H8"
+    },
+    {
+      "question": "14 − 11 = ?",
+      "options": [
+        5,
+        4,
+        2,
+        3
+      ],
+      "answer": 3,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "-jnXr-BYmvP"
+    },
+    {
+      "question": "16 − 16 = ?",
+      "options": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "answer": 0,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "iHRYU-stWln"
+    },
+    {
+      "question": "15 − 14 = ?",
+      "options": [
+        1,
+        2,
+        0,
+        3
+      ],
+      "answer": 1,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "iafyM4C6KHE"
+    },
+    {
+      "question": "8 − 8 = ?",
+      "options": [
+        2,
+        0,
+        1,
+        3
+      ],
+      "answer": 0,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "lxFcy37AZfV"
+    },
+    {
+      "question": "9 − 7 = ?",
+      "options": [
+        2,
+        1,
+        3,
+        4
+      ],
+      "answer": 2,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "m-kvJ2aUI08"
+    },
+    {
+      "question": "17 − 9 = ?",
+      "options": [
+        8,
+        9,
+        7,
+        10
+      ],
+      "answer": 8,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "KkiPq2oLU4t"
+    },
+    {
+      "question": "16 − 10 = ?",
+      "options": [
+        6,
+        5,
+        7,
+        8
+      ],
+      "answer": 6,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "1lyRM-7_AF4"
+    },
+    {
+      "question": "5 − 2 = ?",
+      "options": [
+        5,
+        3,
+        2,
+        4
+      ],
+      "answer": 3,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "MNDwI6cH69r"
+    },
+    {
+      "question": "18 − 2 = ?",
+      "options": [
+        16,
+        15,
+        17,
+        18
+      ],
+      "answer": 16,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "9CYp6-GMgdE"
+    },
+    {
+      "question": "29 − 7 = ?",
+      "options": [
+        23,
+        22,
+        21,
+        24
+      ],
+      "answer": 22,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "MBRzoObzoc-"
+    },
+    {
+      "question": "10 − 5 = ?",
+      "options": [
+        6,
+        4,
+        5,
+        7
+      ],
+      "answer": 5,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "cE4fhkVhpEq"
+    },
+    {
+      "question": "21 − 15 = ?",
+      "options": [
+        7,
+        6,
+        5,
+        8
+      ],
+      "answer": 6,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "nQQbNrT6EQp"
+    },
+    {
+      "question": "668 − 65 = ?",
+      "options": [
+        602,
+        603,
+        605,
+        604
+      ],
+      "answer": 603,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "oI4hHbQgWDA"
+    },
+    {
+      "question": "414 − 48 = ?",
+      "options": [
+        367,
+        368,
+        366,
+        365
+      ],
+      "answer": 366,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "MYESX5Nuaci"
+    },
+    {
+      "question": "239 − 74 = ?",
+      "options": [
+        166,
+        167,
+        165,
+        164
+      ],
+      "answer": 165,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "N2Ahh0wOfcu"
+    },
+    {
+      "question": "730 − 70 = ?",
+      "options": [
+        661,
+        662,
+        659,
+        660
+      ],
+      "answer": 660,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "v3Sic1CWGT5"
+    },
+    {
+      "question": "972 − 48 = ?",
+      "options": [
+        925,
+        924,
+        923,
+        926
+      ],
+      "answer": 924,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "sl-mG7NWak3"
+    },
+    {
+      "question": "158 − 75 = ?",
+      "options": [
+        84,
+        83,
+        82,
+        85
+      ],
+      "answer": 83,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "GqegObV3IDG"
+    },
+    {
+      "question": "128 − 14 = ?",
+      "options": [
+        116,
+        113,
+        114,
+        115
+      ],
+      "answer": 114,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "DUKmAUOldAM"
+    },
+    {
+      "question": "949 − 39 = ?",
+      "options": [
+        909,
+        912,
+        911,
+        910
+      ],
+      "answer": 910,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "3XVll8TwNOk"
+    },
+    {
+      "question": "282 − 22 = ?",
+      "options": [
+        259,
+        260,
+        261,
+        262
+      ],
+      "answer": 260,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "ZxeBFIt4Y45"
+    },
+    {
+      "question": "827 − 35 = ?",
+      "options": [
+        791,
+        793,
+        794,
+        792
+      ],
+      "answer": 792,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "XAXgYsdLn0O"
+    },
+    {
+      "question": "362 − 66 = ?",
+      "options": [
+        296,
+        295,
+        298,
+        297
+      ],
+      "answer": 296,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "oU7_Ut73oGa"
+    },
+    {
+      "question": "333 − 60 = ?",
+      "options": [
+        272,
+        275,
+        274,
+        273
+      ],
+      "answer": 273,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "HwMeyxfsYlP"
+    },
+    {
+      "question": "890 − 38 = ?",
+      "options": [
+        851,
+        854,
+        852,
+        853
+      ],
+      "answer": 852,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "vsUK6T6ZKOQ"
+    },
+    {
+      "question": "266 − 29 = ?",
+      "options": [
+        238,
+        237,
+        239,
+        236
+      ],
+      "answer": 237,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "Gl6ZQlJaH84"
+    },
+    {
+      "question": "334 − 92 = ?",
+      "options": [
+        243,
+        244,
+        241,
+        242
+      ],
+      "answer": 242,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "TqospCbb5hM"
+    },
+    {
+      "question": "114 − 16 = ?",
+      "options": [
+        99,
+        100,
+        98,
+        97
+      ],
+      "answer": 98,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "9Src0G3PbSu"
+    },
+    {
+      "question": "522 − 38 = ?",
+      "options": [
+        486,
+        485,
+        483,
+        484
+      ],
+      "answer": 484,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "q4i_emJ61Gu"
+    },
+    {
+      "question": "924 − 91 = ?",
+      "options": [
+        834,
+        832,
+        835,
+        833
+      ],
+      "answer": 833,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "WCBvt_1gUyn"
+    },
+    {
+      "question": "364 − 24 = ?",
+      "options": [
+        341,
+        342,
+        339,
+        340
+      ],
+      "answer": 340,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "IJfPc0RXaKo"
+    },
+    {
+      "question": "831 − 77 = ?",
+      "options": [
+        754,
+        755,
+        756,
+        753
+      ],
+      "answer": 754,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "6ywFje6VKyO"
+    },
+    {
+      "question": "3217 − 979 = ?",
+      "options": [
+        2237,
+        2240,
+        2239,
+        2238
+      ],
+      "answer": 2238,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "ymHUNMHoENt"
+    },
+    {
+      "question": "43431 − 697 = ?",
+      "options": [
+        42735,
+        42736,
+        42733,
+        42734
+      ],
+      "answer": 42734,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "FdGT1EfM5zy"
+    },
+    {
+      "question": "73695 − 607 = ?",
+      "options": [
+        73088,
+        73087,
+        73090,
+        73089
+      ],
+      "answer": 73088,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "sxJJx5mljES"
+    },
+    {
+      "question": "21526 − 789 = ?",
+      "options": [
+        20738,
+        20737,
+        20739,
+        20736
+      ],
+      "answer": 20737,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "oDpSbzMC47h"
+    },
+    {
+      "question": "45730 − 706 = ?",
+      "options": [
+        45024,
+        45023,
+        45026,
+        45025
+      ],
+      "answer": 45024,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "WjrUC7NcWg9"
+    },
+    {
+      "question": "8055 − 851 = ?",
+      "options": [
+        7203,
+        7206,
+        7204,
+        7205
+      ],
+      "answer": 7204,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "y6X8U8HWkVD"
+    },
+    {
+      "question": "46794 − 458 = ?",
+      "options": [
+        46337,
+        46335,
+        46336,
+        46338
+      ],
+      "answer": 46336,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "hAZS8qbYXcf"
+    },
+    {
+      "question": "50767 − 221 = ?",
+      "options": [
+        50545,
+        50547,
+        50546,
+        50548
+      ],
+      "answer": 50546,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "L-rLcHpTkNd"
+    },
+    {
+      "question": "80147 − 173 = ?",
+      "options": [
+        79974,
+        79973,
+        79975,
+        79976
+      ],
+      "answer": 79974,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "wCBy1bBXq8I"
+    },
+    {
+      "question": "95651 − 281 = ?",
+      "options": [
+        95371,
+        95370,
+        95369,
+        95372
+      ],
+      "answer": 95370,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "xVEaBYB-xb1"
+    },
+    {
+      "question": "13023 − 512 = ?",
+      "options": [
+        12512,
+        12513,
+        12510,
+        12511
+      ],
+      "answer": 12511,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "2gZZ9IsmTuW"
+    },
+    {
+      "question": "41610 − 741 = ?",
+      "options": [
+        40868,
+        40871,
+        40870,
+        40869
+      ],
+      "answer": 40869,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "Wqo_IkDsjOI"
+    },
+    {
+      "question": "11179 − 629 = ?",
+      "options": [
+        10550,
+        10549,
+        10551,
+        10552
+      ],
+      "answer": 10550,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "l0oEBcg1BRY"
+    },
+    {
+      "question": "59146 − 555 = ?",
+      "options": [
+        58593,
+        58592,
+        58591,
+        58590
+      ],
+      "answer": 58591,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "QmGjdoPtjkS"
+    },
+    {
+      "question": "92875 − 576 = ?",
+      "options": [
+        92301,
+        92299,
+        92298,
+        92300
+      ],
+      "answer": 92299,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "28C4MQnsG5z"
+    },
+    {
+      "question": "8962 − 860 = ?",
+      "options": [
+        8103,
+        8104,
+        8101,
+        8102
+      ],
+      "answer": 8102,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "EiP3Xl-wqsS"
+    },
+    {
+      "question": "99444 − 990 = ?",
+      "options": [
+        98455,
+        98454,
+        98456,
+        98453
+      ],
+      "answer": 98454,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "AnOzoE-SYOd"
+    },
+    {
+      "question": "59748 − 637 = ?",
+      "options": [
+        59113,
+        59110,
+        59111,
+        59112
+      ],
+      "answer": 59111,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "cgwAP1lWvZr"
+    },
+    {
+      "question": "37109 − 365 = ?",
+      "options": [
+        36745,
+        36743,
+        36744,
+        36746
+      ],
+      "answer": 36744,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "qhWz2oO4o-9"
+    },
+    {
+      "question": "79292 − 982 = ?",
+      "options": [
+        78309,
+        78311,
+        78310,
+        78312
+      ],
+      "answer": 78310,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "oW3aaG8A0YR"
+    },
+    {
+      "question": "6 × 10 = ?",
+      "options": [
+        61,
+        59,
+        60,
+        62
+      ],
+      "answer": 60,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "ZaRMO-tasnq"
+    },
+    {
+      "question": "2 × 10 = ?",
+      "options": [
+        19,
+        22,
+        21,
+        20
+      ],
+      "answer": 20,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "WGqGrrX4D53"
+    },
+    {
+      "question": "5 × 5 = ?",
+      "options": [
+        25,
+        24,
+        26,
+        27
+      ],
+      "answer": 25,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "C8JirohTP5e"
+    },
+    {
+      "question": "10 × 3 = ?",
+      "options": [
+        31,
+        29,
+        30,
+        32
+      ],
+      "answer": 30,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "IyhvW-c-4Hy"
+    },
+    {
+      "question": "3 × 10 = ?",
+      "options": [
+        32,
+        31,
+        30,
+        29
+      ],
+      "answer": 30,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "usT7ozcKnUi"
+    },
+    {
+      "question": "6 × 6 = ?",
+      "options": [
+        35,
+        36,
+        38,
+        37
+      ],
+      "answer": 36,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "ZIIhmylcbGO"
+    },
+    {
+      "question": "7 × 10 = ?",
+      "options": [
+        69,
+        72,
+        70,
+        71
+      ],
+      "answer": 70,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "YK68A7ZXLlc"
+    },
+    {
+      "question": "3 × 6 = ?",
+      "options": [
+        19,
+        17,
+        18,
+        20
+      ],
+      "answer": 18,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "AjxUA8LbzcQ"
+    },
+    {
+      "question": "2 × 2 = ?",
+      "options": [
+        3,
+        5,
+        6,
+        4
+      ],
+      "answer": 4,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "WP-kbeHAfR1"
+    },
+    {
+      "question": "10 × 9 = ?",
+      "options": [
+        90,
+        89,
+        92,
+        91
+      ],
+      "answer": 90,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "bngVyApVneE"
+    },
+    {
+      "question": "7 × 5 = ?",
+      "options": [
+        34,
+        36,
+        37,
+        35
+      ],
+      "answer": 35,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "u41aPSDxzPW"
+    },
+    {
+      "question": "8 × 2 = ?",
+      "options": [
+        18,
+        15,
+        16,
+        17
+      ],
+      "answer": 16,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "md_jp822Dua"
+    },
+    {
+      "question": "8 × 10 = ?",
+      "options": [
+        81,
+        82,
+        80,
+        79
+      ],
+      "answer": 80,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "vNSQBqdTg_a"
+    },
+    {
+      "question": "2 × 5 = ?",
+      "options": [
+        12,
+        9,
+        11,
+        10
+      ],
+      "answer": 10,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "fJOXJmmED_r"
+    },
+    {
+      "question": "7 × 4 = ?",
+      "options": [
+        28,
+        27,
+        29,
+        30
+      ],
+      "answer": 28,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "xOaLCi9K0HZ"
+    },
+    {
+      "question": "16 × 12 = ?",
+      "options": [
+        191,
+        192,
+        193,
+        194
+      ],
+      "answer": 192,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "nEhvWicKe3b"
+    },
+    {
+      "question": "25 × 8 = ?",
+      "options": [
+        200,
+        202,
+        201,
+        199
+      ],
+      "answer": 200,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "_q4ClRUbX6X"
+    },
+    {
+      "question": "17 × 7 = ?",
+      "options": [
+        118,
+        121,
+        119,
+        120
+      ],
+      "answer": 119,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "CUatOL79dwH"
+    },
+    {
+      "question": "25 × 9 = ?",
+      "options": [
+        225,
+        226,
+        227,
+        224
+      ],
+      "answer": 225,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "d8P1LYu1f8y"
+    },
+    {
+      "question": "25 × 4 = ?",
+      "options": [
+        102,
+        101,
+        99,
+        100
+      ],
+      "answer": 100,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "ohhGI80-QfW"
+    },
+    {
+      "question": "29 × 10 = ?",
+      "options": [
+        290,
+        292,
+        289,
+        291
+      ],
+      "answer": 290,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "dhkgTiu-3zC"
+    },
+    {
+      "question": "21 × 6 = ?",
+      "options": [
+        127,
+        125,
+        126,
+        128
+      ],
+      "answer": 126,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "9snYydFhehz"
+    },
+    {
+      "question": "14 × 7 = ?",
+      "options": [
+        97,
+        99,
+        98,
+        100
+      ],
+      "answer": 98,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "UvDIUmwXz36"
+    },
+    {
+      "question": "12 × 11 = ?",
+      "options": [
+        134,
+        131,
+        133,
+        132
+      ],
+      "answer": 132,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "_zlZNe9fx_9"
+    },
+    {
+      "question": "30 × 11 = ?",
+      "options": [
+        332,
+        330,
+        329,
+        331
+      ],
+      "answer": 330,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "QRR6OeMGDKC"
+    },
+    {
+      "question": "16 × 9 = ?",
+      "options": [
+        146,
+        144,
+        143,
+        145
+      ],
+      "answer": 144,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "vMp8Okl72kc"
+    },
+    {
+      "question": "24 × 8 = ?",
+      "options": [
+        194,
+        193,
+        191,
+        192
+      ],
+      "answer": 192,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "8PK9D4H6pFV"
+    },
+    {
+      "question": "19 × 7 = ?",
+      "options": [
+        132,
+        135,
+        133,
+        134
+      ],
+      "answer": 133,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "lIIYGF0rFZE"
+    },
+    {
+      "question": "25 × 12 = ?",
+      "options": [
+        299,
+        300,
+        301,
+        302
+      ],
+      "answer": 300,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "2YdxITA2LKg"
+    },
+    {
+      "question": "17 × 8 = ?",
+      "options": [
+        137,
+        135,
+        138,
+        136
+      ],
+      "answer": 136,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "0mADlP20_s2"
+    },
+    {
+      "question": "12 × 10 = ?",
+      "options": [
+        122,
+        119,
+        120,
+        121
+      ],
+      "answer": 120,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "0bjDgqErC6V"
+    },
+    {
+      "question": "30 × 9 = ?",
+      "options": [
+        270,
+        271,
+        269,
+        272
+      ],
+      "answer": 270,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "VSWVTWxpAOE"
+    },
+    {
+      "question": "13 × 5 = ?",
+      "options": [
+        65,
+        67,
+        66,
+        64
+      ],
+      "answer": 65,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "gh0hViXnqac"
+    },
+    {
+      "question": "20 × 9 = ?",
+      "options": [
+        179,
+        180,
+        182,
+        181
+      ],
+      "answer": 180,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "ahOW0HLxr1G"
+    },
+    {
+      "question": "26 × 3 = ?",
+      "options": [
+        78,
+        77,
+        79,
+        80
+      ],
+      "answer": 78,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "rpzHshU_qou"
+    },
+    {
+      "question": "73 × 83 = ?",
+      "options": [
+        6059,
+        6061,
+        6060,
+        6058
+      ],
+      "answer": 6059,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "SuDcFeRQMsx"
+    },
+    {
+      "question": "75 × 55 = ?",
+      "options": [
+        4124,
+        4125,
+        4126,
+        4127
+      ],
+      "answer": 4125,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "5f8uE6l1xhM"
+    },
+    {
+      "question": "116 × 47 = ?",
+      "options": [
+        5453,
+        5452,
+        5454,
+        5451
+      ],
+      "answer": 5452,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "EQS2WAR2kGc"
+    },
+    {
+      "question": "108 × 47 = ?",
+      "options": [
+        5077,
+        5076,
+        5075,
+        5078
+      ],
+      "answer": 5076,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "naWs98jlZ7-"
+    },
+    {
+      "question": "61 × 75 = ?",
+      "options": [
+        4575,
+        4576,
+        4577,
+        4574
+      ],
+      "answer": 4575,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "zf4GanwzKgK"
+    },
+    {
+      "question": "97 × 51 = ?",
+      "options": [
+        4946,
+        4947,
+        4949,
+        4948
+      ],
+      "answer": 4947,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "sfjrI32BzyK"
+    },
+    {
+      "question": "131 × 81 = ?",
+      "options": [
+        10611,
+        10613,
+        10610,
+        10612
+      ],
+      "answer": 10611,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "s-KaMaO0QPg"
+    },
+    {
+      "question": "90 × 98 = ?",
+      "options": [
+        8820,
+        8822,
+        8819,
+        8821
+      ],
+      "answer": 8820,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "Jd-FTuaY7pJ"
+    },
+    {
+      "question": "126 × 28 = ?",
+      "options": [
+        3528,
+        3530,
+        3529,
+        3527
+      ],
+      "answer": 3528,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "Uk1ggaiGGkx"
+    },
+    {
+      "question": "109 × 83 = ?",
+      "options": [
+        9046,
+        9047,
+        9048,
+        9049
+      ],
+      "answer": 9047,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "U-KdLbqLm_D"
+    },
+    {
+      "question": "31 × 51 = ?",
+      "options": [
+        1583,
+        1582,
+        1581,
+        1580
+      ],
+      "answer": 1581,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "eFoscHhcOTw"
+    },
+    {
+      "question": "103 × 72 = ?",
+      "options": [
+        7418,
+        7415,
+        7416,
+        7417
+      ],
+      "answer": 7416,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "AwQgyaBSAm1"
+    },
+    {
+      "question": "32 × 67 = ?",
+      "options": [
+        2144,
+        2145,
+        2146,
+        2143
+      ],
+      "answer": 2144,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "8EZbns-yHCt"
+    },
+    {
+      "question": "120 × 43 = ?",
+      "options": [
+        5162,
+        5161,
+        5160,
+        5159
+      ],
+      "answer": 5160,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "IwTzgBTGlyW"
+    },
+    {
+      "question": "94 × 39 = ?",
+      "options": [
+        3665,
+        3667,
+        3668,
+        3666
+      ],
+      "answer": 3666,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "F8359ygZWdb"
+    },
+    {
+      "question": "34 × 60 = ?",
+      "options": [
+        2042,
+        2040,
+        2041,
+        2039
+      ],
+      "answer": 2040,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "sVRfTlOs-dK"
+    },
+    {
+      "question": "57 × 77 = ?",
+      "options": [
+        4389,
+        4388,
+        4390,
+        4391
+      ],
+      "answer": 4389,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "Z9Uq5BFozgP"
+    },
+    {
+      "question": "104 × 37 = ?",
+      "options": [
+        3847,
+        3850,
+        3848,
+        3849
+      ],
+      "answer": 3848,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "wNYalw9aHDw"
+    },
+    {
+      "question": "33 × 54 = ?",
+      "options": [
+        1784,
+        1782,
+        1783,
+        1781
+      ],
+      "answer": 1782,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "xmPCp3bvrSG"
+    },
+    {
+      "question": "108 × 73 = ?",
+      "options": [
+        7884,
+        7883,
+        7885,
+        7886
+      ],
+      "answer": 7884,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "IdE7FKY5geT"
+    },
+    {
+      "question": "56 ÷ 8 = ?",
+      "options": [
+        8,
+        9,
+        7,
+        6
+      ],
+      "answer": 7,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "hqjRjkfBp-9"
+    },
+    {
+      "question": "66 ÷ 6 = ?",
+      "options": [
+        11,
+        13,
+        12,
+        10
+      ],
+      "answer": 11,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "TdDqscrLB2O"
+    },
+    {
+      "question": "24 ÷ 2 = ?",
+      "options": [
+        11,
+        13,
+        14,
+        12
+      ],
+      "answer": 12,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "SZT_rwXZu9K"
+    },
+    {
+      "question": "14 ÷ 7 = ?",
+      "options": [
+        4,
+        3,
+        2,
+        1
+      ],
+      "answer": 2,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "PGgLEyLRZvp"
+    },
+    {
+      "question": "72 ÷ 8 = ?",
+      "options": [
+        9,
+        8,
+        11,
+        10
+      ],
+      "answer": 9,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "uqVYTl8yI_Y"
+    },
+    {
+      "question": "20 ÷ 10 = ?",
+      "options": [
+        2,
+        3,
+        1,
+        4
+      ],
+      "answer": 2,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "rhfYvedAibc"
+    },
+    {
+      "question": "54 ÷ 6 = ?",
+      "options": [
+        10,
+        8,
+        11,
+        9
+      ],
+      "answer": 9,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "5F28ZFv61Ap"
+    },
+    {
+      "question": "6 ÷ 2 = ?",
+      "options": [
+        5,
+        2,
+        3,
+        4
+      ],
+      "answer": 3,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "i3ylEhHzHGr"
+    },
+    {
+      "question": "90 ÷ 9 = ?",
+      "options": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "answer": 10,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "Si9R3QI8n0F"
+    },
+    {
+      "question": "32 ÷ 4 = ?",
+      "options": [
+        7,
+        9,
+        8,
+        10
+      ],
+      "answer": 8,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "958187dJv3N"
+    },
+    {
+      "question": "27 ÷ 9 = ?",
+      "options": [
+        2,
+        4,
+        3,
+        5
+      ],
+      "answer": 3,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "Hvpx03B3gRB"
+    },
+    {
+      "question": "16 ÷ 8 = ?",
+      "options": [
+        1,
+        3,
+        2,
+        4
+      ],
+      "answer": 2,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "_X9RcNcbWum"
+    },
+    {
+      "question": "72 ÷ 6 = ?",
+      "options": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "answer": 12,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "8Gc5Q8swP4n"
+    },
+    {
+      "question": "30 ÷ 10 = ?",
+      "options": [
+        2,
+        3,
+        5,
+        4
+      ],
+      "answer": 3,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "7DjGEENLqWG"
+    },
+    {
+      "question": "48 ÷ 6 = ?",
+      "options": [
+        9,
+        10,
+        7,
+        8
+      ],
+      "answer": 8,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "fiCqO1fxVXb"
+    },
+    {
+      "question": "460 ÷ 10 = ?",
+      "options": [
+        48,
+        47,
+        46,
+        45
+      ],
+      "answer": 46,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "5Lcz9wwZxnP"
+    },
+    {
+      "question": "192 ÷ 16 = ?",
+      "options": [
+        13,
+        11,
+        14,
+        12
+      ],
+      "answer": 12,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "URAN43BDV_b"
+    },
+    {
+      "question": "238 ÷ 7 = ?",
+      "options": [
+        34,
+        36,
+        35,
+        33
+      ],
+      "answer": 34,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "0SC18JeOogV"
+    },
+    {
+      "question": "92 ÷ 4 = ?",
+      "options": [
+        22,
+        25,
+        23,
+        24
+      ],
+      "answer": 23,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "uoFkAlUU54Q"
+    },
+    {
+      "question": "627 ÷ 19 = ?",
+      "options": [
+        32,
+        34,
+        33,
+        35
+      ],
+      "answer": 33,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "oMA8skCykNF"
+    },
+    {
+      "question": "589 ÷ 19 = ?",
+      "options": [
+        33,
+        32,
+        31,
+        30
+      ],
+      "answer": 31,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "vJx48zx1R_E"
+    },
+    {
+      "question": "435 ÷ 15 = ?",
+      "options": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "answer": 29,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "ScOi58c7jvs"
+    },
+    {
+      "question": "252 ÷ 7 = ?",
+      "options": [
+        36,
+        38,
+        37,
+        35
+      ],
+      "answer": 36,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "rXmoLuWmlMd"
+    },
+    {
+      "question": "135 ÷ 9 = ?",
+      "options": [
+        14,
+        16,
+        17,
+        15
+      ],
+      "answer": 15,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "YzTKT2p5rl5"
+    },
+    {
+      "question": "144 ÷ 4 = ?",
+      "options": [
+        37,
+        38,
+        36,
+        35
+      ],
+      "answer": 36,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "rBqraAPy10b"
+    },
+    {
+      "question": "171 ÷ 9 = ?",
+      "options": [
+        21,
+        18,
+        20,
+        19
+      ],
+      "answer": 19,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "GsR7iWEfH78"
+    },
+    {
+      "question": "300 ÷ 20 = ?",
+      "options": [
+        17,
+        14,
+        16,
+        15
+      ],
+      "answer": 15,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "2zBUpbdoKuB"
+    },
+    {
+      "question": "960 ÷ 20 = ?",
+      "options": [
+        47,
+        48,
+        50,
+        49
+      ],
+      "answer": 48,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "Z0b-_WeROo9"
+    },
+    {
+      "question": "80 ÷ 4 = ?",
+      "options": [
+        20,
+        21,
+        22,
+        19
+      ],
+      "answer": 20,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "YroGH1y0v9x"
+    },
+    {
+      "question": "195 ÷ 15 = ?",
+      "options": [
+        13,
+        14,
+        15,
+        12
+      ],
+      "answer": 13,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "sVfiXjwF9dm"
+    },
+    {
+      "question": "190 ÷ 10 = ?",
+      "options": [
+        18,
+        21,
+        20,
+        19
+      ],
+      "answer": 19,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "kOagE6hrOYt"
+    },
+    {
+      "question": "646 ÷ 17 = ?",
+      "options": [
+        38,
+        40,
+        37,
+        39
+      ],
+      "answer": 38,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "C3RxEhjwBO4"
+    },
+    {
+      "question": "564 ÷ 12 = ?",
+      "options": [
+        49,
+        46,
+        47,
+        48
+      ],
+      "answer": 47,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "DflHDsIhrlQ"
+    },
+    {
+      "question": "228 ÷ 6 = ?",
+      "options": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "answer": 38,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "CFBQioGIylk"
+    },
+    {
+      "question": "350 ÷ 14 = ?",
+      "options": [
+        26,
+        24,
+        25,
+        27
+      ],
+      "answer": 25,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "BLirDtWKJ_3"
+    },
+    {
+      "question": "2880 ÷ 40 = ?",
+      "options": [
+        73,
+        74,
+        71,
+        72
+      ],
+      "answer": 72,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "0JAxh5WJ8ig"
+    },
+    {
+      "question": "9735 ÷ 59 = ?",
+      "options": [
+        164,
+        167,
+        165,
+        166
+      ],
+      "answer": 165,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "EofM_VXDAGi"
+    },
+    {
+      "question": "12416 ÷ 97 = ?",
+      "options": [
+        128,
+        130,
+        127,
+        129
+      ],
+      "answer": 128,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "kixc1W3bP-T"
+    },
+    {
+      "question": "19092 ÷ 86 = ?",
+      "options": [
+        223,
+        224,
+        221,
+        222
+      ],
+      "answer": 222,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "kxEhB2Kzho-"
+    },
+    {
+      "question": "2794 ÷ 22 = ?",
+      "options": [
+        127,
+        129,
+        126,
+        128
+      ],
+      "answer": 127,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "QwbcI9IyW1q"
+    },
+    {
+      "question": "5760 ÷ 60 = ?",
+      "options": [
+        96,
+        98,
+        97,
+        95
+      ],
+      "answer": 96,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "4y8_3rF9w0X"
+    },
+    {
+      "question": "1736 ÷ 28 = ?",
+      "options": [
+        62,
+        61,
+        64,
+        63
+      ],
+      "answer": 62,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "HKSHk4s9SoI"
+    },
+    {
+      "question": "8967 ÷ 49 = ?",
+      "options": [
+        184,
+        185,
+        182,
+        183
+      ],
+      "answer": 183,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "Y8ff_UHo1r8"
+    },
+    {
+      "question": "13884 ÷ 78 = ?",
+      "options": [
+        177,
+        178,
+        180,
+        179
+      ],
+      "answer": 178,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "-TOYkmM3w7O"
+    },
+    {
+      "question": "3256 ÷ 74 = ?",
+      "options": [
+        43,
+        45,
+        44,
+        46
+      ],
+      "answer": 44,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "HytNxOoI0fr"
+    },
+    {
+      "question": "11826 ÷ 54 = ?",
+      "options": [
+        219,
+        221,
+        220,
+        218
+      ],
+      "answer": 219,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "J1foh1P_Z5J"
+    },
+    {
+      "question": "1768 ÷ 34 = ?",
+      "options": [
+        52,
+        54,
+        53,
+        51
+      ],
+      "answer": 52,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "DxicoZFWfHR"
+    },
+    {
+      "question": "9672 ÷ 52 = ?",
+      "options": [
+        186,
+        187,
+        185,
+        188
+      ],
+      "answer": 186,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "VGd4-snInfJ"
+    },
+    {
+      "question": "2040 ÷ 20 = ?",
+      "options": [
+        103,
+        102,
+        101,
+        104
+      ],
+      "answer": 102,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "sSexFkzMjEn"
+    },
+    {
+      "question": "3960 ÷ 22 = ?",
+      "options": [
+        180,
+        179,
+        181,
+        182
+      ],
+      "answer": 180,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "XjtatIX46Da"
+    },
+    {
+      "question": "7252 ÷ 98 = ?",
+      "options": [
+        76,
+        75,
+        73,
+        74
+      ],
+      "answer": 74,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "6IfjGlmCEHR"
+    },
+    {
+      "question": "3770 ÷ 26 = ?",
+      "options": [
+        144,
+        146,
+        147,
+        145
+      ],
+      "answer": 145,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "yIwru7cA4-G"
+    },
+    {
+      "question": "18600 ÷ 75 = ?",
+      "options": [
+        247,
+        249,
+        248,
+        250
+      ],
+      "answer": 248,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "Nl7FxPhZ1go"
+    },
+    {
+      "question": "6204 ÷ 47 = ?",
+      "options": [
+        134,
+        132,
+        131,
+        133
+      ],
+      "answer": 132,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "GgyEWyI0rNT"
+    },
+    {
+      "question": "9288 ÷ 43 = ?",
+      "options": [
+        217,
+        218,
+        216,
+        215
+      ],
+      "answer": 216,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2026-11-23T00:00:00.000Z",
+      "id": "97nATnQt48K"
+    }
+  ],
+  "attempts": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}

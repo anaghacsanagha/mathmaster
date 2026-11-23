@@ -1,0 +1,8 @@
+{
+  "name": "mathmaster-json-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MathMaster REST API powered by JSON Server",
+  "scripts": { "start": "json-server --watch db.json --host 0.0.0.0 --port 3000" },
+  "dependencies": { "json-server": "^0.17.4" }
+}

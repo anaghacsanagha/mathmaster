@@ -1,0 +1,5 @@
+import { Link } from 'react-router-dom';
+import { useAuth } from '../context/AuthContext';
+export default function Dashboard(){const {user}=useAuth();return <><div className="mb-4"><p className="eyebrow">YOUR LEARNING SPACE</p><h2 className="fw-bold">Hello, {user?.name}! 👋</h2><p className="text-muted">Choose an operation and sharpen your arithmetic skills.</p></div><div className="row g-3">
+{[['➕','Addition','addition'],['➖','Subtraction','subtraction'],['✖️','Multiplication','multiplication'],['➗','Division','division']].map(([icon,name,op])=><div className="col-md-6 col-lg-3" key={op}><Link className="operation-card" to={`/quiz?operation=${op}`}><span>{icon}</span><h5>{name}</h5><small>Practice questions</small></Link></div>)}</div>
+<div className="panel p-4 mt-4"><h4>Ready for a challenge?</h4><p className="text-muted">Mix all four operations and choose your difficulty.</p><Link className="btn btn-primary me-2" to="/quiz?operation=all">Start mixed quiz</Link><Link className="btn btn-outline-primary" to="/leaderboard">View leaderboard</Link></div></>;}

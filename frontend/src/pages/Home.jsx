@@ -1,0 +1,2 @@
+import { Link } from 'react-router-dom';
+export default function Home() { return <section className="hero panel text-center p-5 mt-4"><div className="display-3 mb-3">🧮</div><h1 className="display-5 fw-bold">Make numbers your superpower.</h1><p className="lead text-muted mx-auto" style={{maxWidth:650}}>Practice addition, subtraction, multiplication and division with timed quizzes, instant results and friendly competition.</p><Link className="btn btn-primary btn-lg mt-3" to="/register">Get started</Link></section>; }
